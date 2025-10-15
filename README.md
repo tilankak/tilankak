@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 I'm a passionate developer experienced in building **web and desktop applications** using  
-**C#, ASP.NET Core, MVC, Blazor, and SQL Server, Python**.  
+**C#, ASP.NET Core, MVC, Blazor, Python and SQL Server**.  
 
 I love creating efficient and maintainable systems — from database-driven enterprise tools to modern cloud-connected IoT dashboards.
 
