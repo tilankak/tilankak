@@ -86,8 +86,6 @@ I love creating efficient and maintainable systems — from database-driven ente
 
 ## 🧩 Notable Projects
 
-### 🧪 NPI Management System (New Product Introduction)
-
 ### 🛗 Elevator Alarm Pro — *Bermuda Elevator Systems Ltd.*
 
 **Type:** Real-Time IoT Monitoring Platform
@@ -122,6 +120,16 @@ Blazor Server, .NET 8, Entity Framework Core, SQL Server
 Developed an import/export solution supporting **Worksite** and **NetDocuments**, optimizing performance for large data sets and ensuring data integrity.
 
 ---
+
+### 🧪 NPI Management System (New Product Introduction)
+
+**Type:** Product Development & Workflow Management System
+
+**Description:**
+Built a multi-phase enterprise application to manage the complete New Product Introduction (NPI) lifecycle. The platform integrates CRM data, product requirements, regulatory compliance, laboratory testing, trial management, approvals, and executive dashboards for tracking product development progress.
+
+**Technologies:**
+Blazor Server, Azure Functions, SQL Server, Dapper, Pipedrive API, Azure Cloud
 
 ### 🗂️ Data Migration App — *Milan Move & Archive (Prosperoware)*
 **Type:** Desktop & Server Application  
