@@ -114,13 +114,6 @@ Designed and developed a Blazor-based project management system for tracking emp
 **Technologies:**
 Blazor Server, .NET 8, Entity Framework Core, SQL Server
 
-### 🧾 Import & Export Application — *Prosperoware*
-**Type:** Desktop Import & Export Tool for DMS  
-**Description:**  
-Developed an import/export solution supporting **Worksite** and **NetDocuments**, optimizing performance for large data sets and ensuring data integrity.
-
----
-
 ### 🧪 NPI Management System (New Product Introduction)
 
 **Type:** Product Development & Workflow Management System
@@ -130,6 +123,14 @@ Built a multi-phase enterprise application to manage the complete New Product In
 
 **Technologies:**
 Blazor Server, Azure Functions, SQL Server, Dapper, Pipedrive API, Azure Cloud
+
+### 🧾 Import & Export Application — *Prosperoware*
+**Type:** Desktop Import & Export Tool for DMS  
+**Description:**  
+Developed an import/export solution supporting **Worksite** and **NetDocuments**, optimizing performance for large data sets and ensuring data integrity.
+
+---
+
 
 ### 🗂️ Data Migration App — *Milan Move & Archive (Prosperoware)*
 **Type:** Desktop & Server Application  
